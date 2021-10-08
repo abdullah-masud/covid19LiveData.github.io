@@ -1,0 +1,11 @@
+#searchCountryRows {
+    display: none;
+}
+
+#vaccineStatusRows {
+    display: none;
+}
+
+.selectCountry {
+    display: none;
+}
